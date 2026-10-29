@@ -1,6 +1,6 @@
 // 가나다 Quest — offline support.
 // Bump VERSION whenever index.html changes so phones pick up the new build.
-const VERSION = "ganada-v1";
+const VERSION = "ganada-v2";
 const FONTS = "ganada-fonts";
 const CORE = [
   "./",
